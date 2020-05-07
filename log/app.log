@@ -1,0 +1,91 @@
+2020-05-06 15:37:24.148 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 15:37:31.152 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:45)] - url is entered in the browser
+2020-05-06 15:37:42.513 INFO [main] [com.baseclass.library] [screenShot] [com.baseclass.library.screenShot(library.java:57)] - Taking ScreenShot
+2020-05-06 15:37:47.713 INFO [main] [com.baseclass.library] [quit] [com.baseclass.library.quit(library.java:54)] - Window is closed
+2020-05-06 15:37:53.276 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 15:38:00.184 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:45)] - url is entered in the browser
+2020-05-06 15:38:09.178 INFO [main] [com.baseclass.library] [screenShot] [com.baseclass.library.screenShot(library.java:57)] - Taking ScreenShot
+2020-05-06 15:38:10.739 INFO [main] [com.baseclass.library] [quit] [com.baseclass.library.quit(library.java:54)] - Window is closed
+2020-05-06 16:59:14.451 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 16:59:20.722 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:45)] - url is entered in the browser
+2020-05-06 16:59:26.925 INFO [main] [com.baseclass.library] [screenShot] [com.baseclass.library.screenShot(library.java:57)] - Taking ScreenShot
+2020-05-06 16:59:28.513 INFO [main] [com.baseclass.library] [quit] [com.baseclass.library.quit(library.java:54)] - Window is closed
+2020-05-06 16:59:33.804 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 16:59:40.578 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:45)] - url is entered in the browser
+2020-05-06 16:59:47.108 INFO [main] [com.baseclass.library] [screenShot] [com.baseclass.library.screenShot(library.java:57)] - Taking ScreenShot
+2020-05-06 16:59:48.611 INFO [main] [com.baseclass.library] [quit] [com.baseclass.library.quit(library.java:54)] - Window is closed
+2020-05-06 17:02:13.769 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 17:02:20.127 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:45)] - url is entered in the browser
+2020-05-06 17:02:32.856 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 17:02:38.928 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:45)] - url is entered in the browser
+2020-05-06 17:02:48.194 INFO [main] [com.baseclass.library] [screenShot] [com.baseclass.library.screenShot(library.java:57)] - Taking ScreenShot
+2020-05-06 17:02:49.762 INFO [main] [com.baseclass.library] [quit] [com.baseclass.library.quit(library.java:54)] - Window is closed
+2020-05-06 17:22:11.471 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 17:22:17.902 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:45)] - url is entered in the browser
+2020-05-06 17:23:24.730 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 17:23:30.949 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:45)] - url is entered in the browser
+2020-05-06 17:28:13.992 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 17:28:20.511 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 17:35:59.903 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 17:36:06.445 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 17:38:06.168 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 17:38:12.450 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 17:39:59.900 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 17:40:06.154 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 17:43:15.786 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 17:43:22.364 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 17:44:45.593 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 17:44:52.263 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 17:45:17.412 INFO [main] [com.baseclass.library] [quit] [com.baseclass.library.quit(library.java:55)] - Window is closed
+2020-05-06 17:48:44.894 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 17:48:51.549 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 17:51:24.769 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 17:51:30.838 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 17:52:21.413 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 17:52:27.838 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 17:52:36.577 INFO [main] [com.baseclass.library] [quit] [com.baseclass.library.quit(library.java:55)] - Window is closed
+2020-05-06 18:00:19.722 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 18:00:26.652 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 18:03:06.588 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 18:03:12.920 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 18:05:02.659 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 18:05:08.966 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 18:07:18.279 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 18:07:24.584 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 18:11:31.004 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 18:11:37.306 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 18:16:47.219 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 18:16:53.734 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 18:20:36.264 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 18:20:42.656 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 18:27:47.700 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 18:27:54.205 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 18:28:07.010 INFO [main] [com.baseclass.library] [quit] [com.baseclass.library.quit(library.java:55)] - Window is closed
+2020-05-06 18:37:02.431 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 18:37:08.921 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 18:40:53.153 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 18:40:59.038 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 18:44:24.030 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 18:44:30.220 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 18:54:00.459 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 18:54:07.542 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 19:11:13.022 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 19:11:18.761 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 19:11:27.948 INFO [main] [com.baseclass.library] [quit] [com.baseclass.library.quit(library.java:55)] - Window is closed
+2020-05-06 19:25:58.643 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 19:26:04.946 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 19:28:48.236 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 19:28:54.058 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 19:29:02.410 INFO [main] [com.baseclass.library] [quit] [com.baseclass.library.quit(library.java:55)] - Window is closed
+2020-05-06 19:45:58.790 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 19:46:05.153 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 19:46:05.160 INFO [main] [com.baseclass.library] [login_to_the_application] [com.stepdefinition.ForgotpasswordSteps.login_to_the_application(ForgotpasswordSteps.java:19)] - Application launched
+2020-05-06 19:46:15.350 INFO [main] [com.baseclass.library] [screenshots_and_close_browser] [com.stepdefinition.ForgotpasswordSteps.screenshots_and_close_browser(ForgotpasswordSteps.java:35)] - Take screenshot for forgot password
+2020-05-06 19:46:15.351 INFO [main] [com.baseclass.library] [screenShot] [com.baseclass.library.screenShot(library.java:58)] - Taking ScreenShot
+2020-05-06 19:46:16.893 INFO [main] [com.baseclass.library] [quit] [com.baseclass.library.quit(library.java:55)] - Window is closed
+2020-05-06 20:05:57.179 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 20:06:03.778 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser
+2020-05-06 20:06:10.292 INFO [main] [com.baseclass.library] [screenshots_and_close_browser] [com.stepdefinition.ForgotpasswordSteps.screenshots_and_close_browser(ForgotpasswordSteps.java:35)] - Take screenshot for forgot password
+2020-05-06 20:06:10.294 INFO [main] [com.baseclass.library] [screenShot] [com.baseclass.library.screenShot(library.java:58)] - Taking ScreenShot
+2020-05-06 21:19:48.724 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:39)] - Chrome Browser is launched 
+2020-05-06 21:19:57.547 INFO [main] [com.baseclass.library] [launchApplication] [com.baseclass.library.launchApplication(library.java:46)] - url is entered in the browser

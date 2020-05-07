@@ -1,0 +1,94 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 31,
+        "name": "Register for a new account",
+        "description": "",
+        "id": "petco-website;register-for-a-new-account",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 17489180400,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "open the browser with url",
+            "match": {
+              "location": "RegisterSteps.open_the_browser_with_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1938272699,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "Clicking an account menu",
+            "match": {
+              "location": "RegisterSteps.clicking_an_account_menu()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3856528400,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "goto register",
+            "match": {
+              "location": "RegisterSteps.goto_register()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6838737200,
+              "error_message": "java.lang.UnsupportedOperationException: You may only deselect options of a multi-select\r\n\tat org.openqa.selenium.support.ui.Select.deselectByVisibleText(Select.java:264)\r\n\tat com.pages.RegisterPage.selectSatate(RegisterPage.java:75)\r\n\tat com.stepdefinition.RegisterSteps.give_all_account_details(RegisterSteps.java:40)\r\n\tat ✽.Then give all account details(C:/Users/itsdi/eclipse-workspace/PetcoProject/src/test/resources/Features/TestCase.feature:36)\r\n",
+              "status": "failed"
+            },
+            "line": 36,
+            "name": "give all account details",
+            "match": {
+              "location": "RegisterSteps.give_all_account_details()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 37,
+            "name": "Taking screenshots and close App",
+            "match": {
+              "location": "RegisterSteps.screenshots_and_close_browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 30,
+            "name": "@tc_03_Registerpage"
+          }
+        ]
+      }
+    ],
+    "name": "petco website",
+    "description": "",
+    "id": "petco-website",
+    "keyword": "Feature",
+    "uri": "C:/Users/itsdi/eclipse-workspace/PetcoProject/src/test/resources/Features/TestCase.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@PetCo_Project"
+      }
+    ]
+  }
+]
